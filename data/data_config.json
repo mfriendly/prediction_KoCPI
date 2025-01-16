@@ -1,0 +1,4 @@
+{
+    "df_fpath_aug": "../data/merged_final_aug.csv",
+    "df_fpath_xaug": "../data/merged_final_x_aug.csv"
+}

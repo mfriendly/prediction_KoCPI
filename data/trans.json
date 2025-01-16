@@ -1,0 +1,12 @@
+{
+    "order": "order",
+    "date": "date",
+    "총지수": "total_index",
+    "생활물가지수": "consumer_price_index",
+    "식품": "food",
+    "식품이외": "non_food",
+    "전월세": "rent",
+    "생활물가이외": "non_living_goods_index",
+    "전월세포함생활물가지수": "cpi_index_rent_included",
+    "sentiment_index": "sentiment_index"
+}
