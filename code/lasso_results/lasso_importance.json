@@ -1,0 +1,34 @@
+[
+    {
+        "Feature":"KORCPICORMINMEI",
+        "Coefficient":7.3943853737
+    },
+    {
+        "Feature":"KORCP010000IXOBM",
+        "Coefficient":4.7447531116
+    },
+    {
+        "Feature":"KORCP040000IXOBM",
+        "Coefficient":3.3122576587
+    },
+    {
+        "Feature":"KORCPGRLH02IXOBM",
+        "Coefficient":2.3593682039
+    },
+    {
+        "Feature":"KORCP070000IXOBM",
+        "Coefficient":1.485712202
+    },
+    {
+        "Feature":"KORCP040100IXOBM",
+        "Coefficient":0.2801463018
+    },
+    {
+        "Feature":"KORCP020000IXOBM",
+        "Coefficient":0.1941333598
+    },
+    {
+        "Feature":"KORCP030000IXOBM",
+        "Coefficient":0.0212463075
+    }
+]
